@@ -1,0 +1,31 @@
+{
+    "version": "1.0.0",
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2024-03-19",
+            "changes": [
+                "Initiale Version des Admin Menüs",
+                "Admin Duty System mit automatischem God Mode",
+                "Duales Revive System (Full/Basic)",
+                "Team Chat System mit Discord Integration",
+                "Verbessertes Ban Management System",
+                "Erweiterte Berechtigungsverwaltung"
+            ]
+        }
+    ],
+    "download": {
+        "free": "https://github.com/AnikScripting/Anik_adminv2/releases",
+        "premium": "https://anik-scripts.tebex.io"
+    },
+    "support": {
+        "discord": "https://discord.gg/anikscripts",
+        "website": "https://anik-scripts.tebex.io",
+        "email": "support@anikscripting.de"
+    },
+    "minimum_requirements": {
+        "fivem_version": "6000",
+        "frameworks": ["ESX", "QBCore"],
+        "dependencies": ["oxmysql"]
+    }
+} 
